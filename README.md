@@ -11,7 +11,7 @@ Az amőba elméletileg a táblás játékok közé tartozik, de a valóságban j
 
  játék a nevét onnan kapta, hogy a győztesé az a „megtiszteltetés”, hogy a végül létrejött alakzatot (szögletes vagy görbe vonallal) szorosan körberajzolja. Az így létrejött vonal egy állábakat növesztett amőbára hasonlít.
  
- ### Játékmenet
+### Játékmenet
  
  A játék nem sokban különbözik a gomokutól, csak nincs rögzítve a tábla mérete, és így nem is kerülhet sorra a bábuk tologatásával játszott második játékszakasz.
 
