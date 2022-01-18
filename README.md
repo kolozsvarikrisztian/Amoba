@@ -9,11 +9,11 @@ Az amőba kétszemélyes absztrakt stratégiai táblás játék, a gomoku válto
 
 Az amőba elméletileg a táblás játékok közé tartozik, de a valóságban jellemzően egy füzet kockás papírján, ceruzával, tollal, gyerekek szokták játszani. A tábla mérete nem kötött, a játék a füzetlap széléig, a még szabad területen folyik.
 
- játék a nevét onnan kapta, hogy a győztesé az a „megtiszteltetés”, hogy a végül létrejött alakzatot (szögletes vagy görbe vonallal) szorosan körberajzolja. Az így létrejött vonal egy állábakat növesztett amőbára hasonlít.
+A játék a nevét onnan kapta, hogy a győztesé az a „megtiszteltetés”, hogy a végül létrejött alakzatot (szögletes vagy görbe vonallal) szorosan körberajzolja. Az így létrejött vonal egy állábakat növesztett amőbára hasonlít.
  
- ### Játékmenet
+### Játékmenet
  
- A játék nem sokban különbözik a gomokutól, csak nincs rögzítve a tábla mérete, és így nem is kerülhet sorra a bábuk tologatásával játszott második játékszakasz.
+A játék nem sokban különbözik a gomokutól, csak nincs rögzítve a tábla mérete, és így nem is kerülhet sorra a bábuk tologatásával játszott második játékszakasz.
 
 A két játékos felváltva tesz egy-egy bábut a táblára. A játék célja, hogy vízszintes, függőleges vagy átlós irányban megszakítás nélkül öt saját bábut sikerüljön letenni. Az ellenfél ezt a kialakulni látszó vonal végére tett bábukkal próbálja megakadályozni.
 
